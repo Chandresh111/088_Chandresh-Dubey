@@ -1,5 +1,5 @@
 # 088_Chandresh-Dubey
-What is the difference between padding and margin in CSS?
+1.What is the difference between padding and margin in CSS?
 
 Ans:
 Padding:
@@ -14,7 +14,7 @@ Space outside the element, between the element and other elements around it.
 
 It creates space between elements.
 
-How does font-family influence the look of a webpage?
+2.How does font-family influence the look of a webpage?
 
 Ans: The font-family property plays a significant role in shaping the visual appeal and readability of a webpage.
 
@@ -24,7 +24,7 @@ Readability: Certain fonts are easier to read on the web, improving user experie
 
 Consistency Across Devices: Specifying web-safe fonts or fallback options ensures a consistent experience across various devices and browsers.
 
-Why is it important to specify a background-color for elements in web design?
+3.Why is it important to specify a background-color for elements in web design?
 
 Ans: Specifying a background-color for elements in web design is important for several reasons:
 
@@ -34,7 +34,7 @@ Provides visual contrast, making content more readable.
 
 Strengthens branding and overall look by aligning with the brand’s color palette.
 
-How did the background-image property change the visual appeal of your webpage?
+4.How did the background-image property change the visual appeal of your webpage?
 
 Ans: The background-image property can significantly enhance the visual appeal of a webpage by adding depth, texture, and visual interest.
 
